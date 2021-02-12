@@ -1,10 +1,10 @@
 id = "plugin.program.szejk.zip"
 wersja = "1.0”
-zip = "https://cutt.ly/zkJLYns"
+zip = "https://cutt.ly/KfiIgf67"
 
 name = "Czarny SpiderMan" 
 wersja = "1.0” 
-url = "https://www.magentacloud.de/api/sharelink/download?id=EuiogXks" - TUTAJ TYLKO KONCOWKE ZMIENIAMY..link zostawiamy..
+url = "https://cutt.ly/EuiogXks"
 minor = "http: //" 
 gui = "https: //” 
 kodi = "18,9” 
