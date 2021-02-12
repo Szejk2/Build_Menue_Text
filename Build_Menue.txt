@@ -4,7 +4,7 @@ zip="https://www.magentacloud.de/lnk/KfiIgf67"
 
 name="Black SpiderMan" 
 version="1.2" 
-url="https://www.magentacloud.de/api/sharelink/download?id=d4CIAZH4"
+url="https://www.magentacloud.de/lnk/3PiIAIOH"
 minor="http://" 
 gui="https://" 
 kodi="18.9" 
