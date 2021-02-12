@@ -1,9 +1,9 @@
 id = "plugin.program.szejk.zip"
-wersja = "1.0”
+wersja = "1.1”
 zip = "https://cutt.ly/zkJLYns"
 
 name = "Czarny SpiderMan" 
-wersja = "1.0” 
+wersja = "1.1” 
 url = "https://cutt.ly/EuiogXks"
 minor = "http: //" 
 gui = "https: //” 
@@ -14,4 +14,4 @@ fanart = "https://cutt.ly/OkbHzvI" BRUTTO
 podgląd = "http: //" 
 dorosły = "nie” 
 info = "http: //" 
-description = "Szejk V1.0"
+description = "Szejk V1.1"
