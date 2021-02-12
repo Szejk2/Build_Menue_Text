@@ -5,7 +5,7 @@ zip = " https://cutt.ly/zkJLYns "
 
 name = "Czarny SpiderMan" 
 wersja = „1.0” 
-url = "https://www.magentacloud.de/lnk/EuiogXks"
+url = "https://www.magentacloud.de/api/sharelink/download?id=EuiogXks" - TUTAJ TYLKO KONCOWKE ZMIENIAMY..link zostawiamy..
 minor = "http: //" 
 gui = „https: //” 
 kodi = „18,9” 
