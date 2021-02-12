@@ -1,17 +1,19 @@
-id = "plugin.program.szejk.zip"
-wersja = "1.0”
-zip = "https://cutt.ly/zkJLYns"
+id="plugin.program.szejk.zip"
+version="1.0"
+zip="https://www.magentacloud.de/api/sharelink/download?id=KfiIgf67" 
 
-name = "Czarny SpiderMan" 
-wersja = "1.1” 
-url = "https://cutt.ly/EuiogXks"
-minor = "http: //" 
-gui = "https: //” 
-kodi = "18,9” 
-theme = "http: //" 
-icon = "https://cutt.ly/XkbHg80" KLEIN
-fanart = "https://cutt.ly/OkbHzvI" BRUTTO
-podgląd = "http: //" 
-dorosły = "nie” 
-info = "http: //" 
-description = "Szejk V1.1"
+name="Czarny SpiderMan" 
+version="1.1" 
+url="https://www.magentacloud.de/api/sharelink/download?id=EuiogXks"
+minor="http://" 
+gui="https://" 
+kodi="18.9" 
+theme="http://" 
+icon="https://cutt.ly/XkbHg80" 
+fanart="https://cutt.ly/OkbHzvI" 
+preview="http://" 
+adult="no" 
+info="http://" 
+description="Szejk V1.1" 
+
+JUZ NAPRAWIŁEM...PROSZE NIC NIE ŻMIENAĆ...
