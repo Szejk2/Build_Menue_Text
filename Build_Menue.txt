@@ -1,6 +1,6 @@
 id="plugin.program.szejk.zip"
 version="1.0"
-zip=""
+zip="https://www.magentacloud.de/lnk/KfiIgf67"
 
 name="Black SpiderMan" 
 version="1.2" 
