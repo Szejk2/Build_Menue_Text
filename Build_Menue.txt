@@ -1,6 +1,6 @@
 id="plugin.program.szejk.zip"
 version="1.0"
-zip="    "
+zip="https://cutt.ly/zkJLYns"
 
 name="Black SpiderMan" 
 version="1.0" 
