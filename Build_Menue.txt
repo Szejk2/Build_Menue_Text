@@ -1,0 +1,17 @@
+id="plugin.program.szejk.zip"
+version="1.0"
+zip="    "
+
+name="Black SpiderMan" 
+version="1.0" 
+url="https://cutt.ly/LkJAYeQ"
+minor="http://" 
+gui="https://" 
+kodi="18.9" 
+theme="http://" 
+icon="https://cutt.ly/XkbHg80" KLEIN
+fanart="https://cutt.ly/OkbHzvI" GROSS
+preview="http://" 
+adult="no" 
+info="http://" 
+description="Szejk V1.0"
