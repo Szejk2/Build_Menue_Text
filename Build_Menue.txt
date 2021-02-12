@@ -1,6 +1,6 @@
 id = "plugin.program.szejk.zip"
 wersja = "1.0”
-zip = "https://cutt.ly/KfiIgf67"
+zip = "https://cutt.ly/zkJLYns"
 
 name = "Czarny SpiderMan" 
 wersja = "1.0” 
