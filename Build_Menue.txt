@@ -2,9 +2,9 @@ id="plugin.program.szejk.zip"
 version="1.0"
 zip="https://www.magentacloud.de/api/sharelink/download?id=oQCIAjse" 
 
-name="Czarny SpiderMan" - tutaj zmieniasz nazwe
-version="1.1" - tutaj nummer podwyszasz
-url="https://www.magentacloud.de/api/sharelink/download?id=EuiogXks" - tutaj tylko koncowke zmieniasz poza =........
+name="BlackSpiderManPL" - tutaj zmieniasz nazwe
+version="1.2" - tutaj nummer podwyszasz
+url="https://www.magentacloud.de/api/sharelink/download?id=l8CoAl0d" - tutaj tylko koncowke zmieniasz poza =........
 minor="http://" 
 gui="https://" 
 kodi="18.9" 
@@ -14,6 +14,6 @@ fanart="https://cutt.ly/LkZJgM2"
 preview="http://" 
 adult="no" 
 info="http://" 
-description="Szejk V1.1" - tutaj nummer podwyszasz
+description="Szejk V1.2" - tutaj nummer podwyszasz
 
 JUZ NAPRAWIŁEM...PROSZE NIC NIE ŻMIENAĆ...
