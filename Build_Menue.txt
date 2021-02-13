@@ -4,7 +4,7 @@ zip="https://www.magentacloud.de/api/sharelink/download?id=oQCIAjse"
 
 name="Czarny SpiderMan" - tutaj zmieniasz nazwe
 version="1.1" - tutaj nummer podwyszasz
-url="https://www.magentacloud.de/api/sharelink/download?id=MOCIgA6N" - tutaj tylko koncowke zmieniasz poza =........
+url="https://www.magentacloud.de/api/sharelink/download?id=EuiogXks" - tutaj tylko koncowke zmieniasz poza =........
 minor="http://" 
 gui="https://" 
 kodi="18.9" 
