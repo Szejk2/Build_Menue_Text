@@ -3,8 +3,8 @@ version="1.0"
 zip="https://www.magentacloud.de/api/sharelink/download?id=oQCIAjse" 
 
 name="BlackSpiderManPL" - tutaj zmieniasz nazwe
-version="1.2.3" - tutaj nummer podwyszasz
-url="https://www.magentacloud.de/api/sharelink/download?id=b9ioAF3T" - tutaj tylko koncowke zmieniasz poza =........
+version="1.2.4" - tutaj nummer podwyszasz
+url="https://www.magentacloud.de/api/sharelink/download?id=a5CoAQd5" - tutaj tylko koncowke zmieniasz poza =........
 minor="http://" 
 gui="https://" 
 kodi="18.9" 
@@ -14,6 +14,6 @@ fanart="https://cutt.ly/LkZJgM2"
 preview="http://" 
 adult="no" 
 info="http://" 
-description="Szejk V1.2.3" - tutaj nummer podwyszasz
+description="Szejk V1.2.4" - tutaj nummer podwyszasz
 
 JUZ NAPRAWIŁEM...PROSZE NIC NIE ŻMIENAĆ...
