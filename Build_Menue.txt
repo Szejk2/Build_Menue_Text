@@ -1,6 +1,6 @@
 id="plugin.program.szejk.zip"
 version="1.0"
-zip="https://www.magentacloud.de/api/sharelink/download?id=oQCIAjse" 
+zip="https://www.magentacloud.de/api/sharelink/download?id=0VCoAase" 
 
 name="BlackSpiderManPL" - tutaj zmieniasz nazwe
 version="1.2.5" - tutaj nummer podwyszasz
