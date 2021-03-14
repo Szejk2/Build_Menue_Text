@@ -4,7 +4,7 @@ zip="https://www.magentacloud.de/api/sharelink/download?id=oQCIAjse"
 
 name="BlackSpiderManPL" - tutaj zmieniasz nazwe
 version="1.2.5" - tutaj nummer podwyszasz
-url="https://www.magentacloud.de/api/sharelink/download?id=a5CoAQd5" - tutaj tylko koncowke zmieniasz poza =........
+url="https://www.magentacloud.de/api/sharelink/download?id=a5CoAQd5" - tutaj tylko koncowke zmieniasz poza =.......
 minor="http://" 
 gui="https://" 
 kodi="18.9" 
