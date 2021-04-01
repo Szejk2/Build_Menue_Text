@@ -4,13 +4,13 @@ zip="https://www.magentacloud.de/api/sharelink/download?id=0VCoAase"
 
 name="szejk" - tutaj zmieniasz nazwe
 version="2.0" - tutaj nummer podwyszasz
-url="https://www.magentacloud.de/api/sharelink/download?id=a5CoAQd5" - tutaj tylko koncowke zmieniasz poza =.......
+url="https://www.magentacloud.de/api/sharelink/download?id=btCoA1dB" - tutaj tylko koncowke zmieniasz poza =.......
 minor="http://" 
 gui="https://" 
 kodi="18.9" 
 theme="http://" 
-icon="https://cutt.ly/XkbHg80" 
-fanart="https://cutt.ly/LkZJgM2" 
+icon="https://www.magentacloud.de/lnk/YyCIgiDo" 
+fanart="https://www.magentacloud.de/lnk/f1iIgZEu" 
 preview="http://" 
 adult="no" 
 info="http://" 
