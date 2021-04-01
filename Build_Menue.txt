@@ -17,3 +17,4 @@ info="http://"
 description="Szejk V2.0" - tutaj nummer podwyszasz
 
 JUZ NAPRAWIŁEM...PROSZE NIC NIE ŻMIENAĆ...
+ 
