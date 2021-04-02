@@ -2,9 +2,9 @@ id="plugin.program.szejk.zip"
 version="1.0"
 zip="https://www.magentacloud.de/api/sharelink/download?id=4kiog5K8" 
 
-name="szejk" - tutaj zmieniasz nazwe
-version="2.0" - tutaj nummer podwyszasz
-url="https://www.magentacloud.de/api/sharelink/download?id=btCoA1dB" - tutaj tylko koncowke zmieniasz poza =.......
+name="szejkpl" - tutaj zmieniasz nazwe
+version="2.1" - tutaj nummer podwyszasz
+url="https://www.magentacloud.de/api/sharelink/download?id=DriIgFGa" - tutaj tylko koncowke zmieniasz poza =.......
 minor="http://" 
 gui="https://" 
 kodi="18.9" 
@@ -14,7 +14,7 @@ fanart="https://cutt.ly/LkZJgM2"
 preview="http://" 
 adult="no" 
 info="http://" 
-description="Szejk V2.0" - tutaj nummer podwyszasz
+description="Szejk V2.1" - tutaj nummer podwyszasz
 
 JUZ NAPRAWIŁEM...PROSZE NIC NIE ŻMIENAĆ...
  
