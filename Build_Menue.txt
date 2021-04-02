@@ -1,6 +1,6 @@
 id="plugin.program.szejk.zip"
 version="1.0"
-zip="https://www.magentacloud.de/api/sharelink/download?id=0VCoAase" 
+zip="https://www.magentacloud.de/api/sharelink/download?id=4kiog5K8" 
 
 name="szejk" - tutaj zmieniasz nazwe
 version="2.0" - tutaj nummer podwyszasz
@@ -9,8 +9,8 @@ minor="http://"
 gui="https://" 
 kodi="18.9" 
 theme="http://" 
-icon="https://www.magentacloud.de/lnk/YyCIgiDo" 
-fanart="https://www.magentacloud.de/lnk/f1iIgZEu" 
+icon="https://cutt.ly/XkbHg80" 
+fanart="https://cutt.ly/LkZJgM2" 
 preview="http://" 
 adult="no" 
 info="http://" 
