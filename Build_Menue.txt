@@ -4,7 +4,7 @@ zip="https://www.magentacloud.de/api/sharelink/download?id=4kiog5K8"
 
 name="szejkpl" - tutaj zmieniasz nazwe
 version="2.1" - tutaj nummer podwyszasz
-url="https://www.magentacloud.de/api/sharelink/download?id=DriIgFGa" - tutaj tylko koncowke zmieniasz poza =.......
+url="https://www.magentacloud.de/api/sharelink/download?id=RmiIgM9n" - tutaj tylko koncowke zmieniasz poza =.......
 minor="http://" 
 gui="https://" 
 kodi="18.9" 
